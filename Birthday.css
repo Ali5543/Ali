@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Happy Birthday!</h1>
+        </header>
+        <main>
+            <p>Dear [Amirah],</p>
+            <p>Wishing you a fantastic birthday filled with joy, laughter, and all the things you love!</p>
+            <p>Best wishes,</p>
+            <p>[Ali]</p>
+        </main>
+    </div>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+main {
+    text-align: center;
+}
